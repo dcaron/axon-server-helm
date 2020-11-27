@@ -5,7 +5,7 @@ image:
   # "axoniq/axonserver" is the SE Docker image. Any other (custom) image means that the chart will configure for EE
   repository: axoniq/axonserver
   pullPolicy: IfNotPresent
-  tag: "4.4"
+  tag: "4.4.5"
 
 config:
   serverDomain: nonprod.axon
